@@ -45,4 +45,4 @@ A partir de la versión **v1.2**, detecta mejor las variantes usadas cuando la `
 3. Ejecuta:
 
 ```bash
-python fontoptimizer.py
+python Font_Remover_vX.py
